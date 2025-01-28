@@ -1,4 +1,4 @@
-# Heart_Disease_Classification
+# Boston House Pricing
 
 # Project Description : 
 
